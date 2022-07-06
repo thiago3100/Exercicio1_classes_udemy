@@ -1,0 +1,15 @@
+C:\ProjetosC#\udemy - pt2\Exercicio1 - udemy\bin\Debug\net6.0\Exercicio1 - udemy.exe
+C:\ProjetosC#\udemy - pt2\Exercicio1 - udemy\bin\Debug\net6.0\Exercicio1 - udemy.deps.json
+C:\ProjetosC#\udemy - pt2\Exercicio1 - udemy\bin\Debug\net6.0\Exercicio1 - udemy.runtimeconfig.json
+C:\ProjetosC#\udemy - pt2\Exercicio1 - udemy\bin\Debug\net6.0\Exercicio1 - udemy.dll
+C:\ProjetosC#\udemy - pt2\Exercicio1 - udemy\bin\Debug\net6.0\Exercicio1 - udemy.pdb
+C:\ProjetosC#\udemy - pt2\Exercicio1 - udemy\obj\Debug\net6.0\Exercicio1 - udemy.csproj.AssemblyReference.cache
+C:\ProjetosC#\udemy - pt2\Exercicio1 - udemy\obj\Debug\net6.0\Exercicio1 - udemy.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosC#\udemy - pt2\Exercicio1 - udemy\obj\Debug\net6.0\Exercicio1 - udemy.AssemblyInfoInputs.cache
+C:\ProjetosC#\udemy - pt2\Exercicio1 - udemy\obj\Debug\net6.0\Exercicio1 - udemy.AssemblyInfo.cs
+C:\ProjetosC#\udemy - pt2\Exercicio1 - udemy\obj\Debug\net6.0\Exercicio1 - udemy.csproj.CoreCompileInputs.cache
+C:\ProjetosC#\udemy - pt2\Exercicio1 - udemy\obj\Debug\net6.0\Exercicio1 - udemy.dll
+C:\ProjetosC#\udemy - pt2\Exercicio1 - udemy\obj\Debug\net6.0\refint\Exercicio1 - udemy.dll
+C:\ProjetosC#\udemy - pt2\Exercicio1 - udemy\obj\Debug\net6.0\Exercicio1 - udemy.pdb
+C:\ProjetosC#\udemy - pt2\Exercicio1 - udemy\obj\Debug\net6.0\Exercicio1 - udemy.genruntimeconfig.cache
+C:\ProjetosC#\udemy - pt2\Exercicio1 - udemy\obj\Debug\net6.0\ref\Exercicio1 - udemy.dll
